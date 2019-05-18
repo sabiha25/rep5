@@ -1,0 +1,17 @@
+devops
+git
+maven
+jenkins
+newuz 
+sonarqube
+jira
+docker
+chef
+ansible
+aws
+s3
+ec2
+ecs
+cloud watch
+google cloud
+azure
